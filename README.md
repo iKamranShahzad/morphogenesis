@@ -20,8 +20,6 @@ npm run build    # production build to dist/
 npm run preview  # preview the production build
 ```
 
-Built relative-pathed (`base: './'`), so the contents of `dist/` can be dropped straight onto Vercel, Netlify, GitHub Pages, or zipped for itch.io.
-
 ## Structure
 
 ```
@@ -35,6 +33,6 @@ The engine is plain JS and renders the living world to a canvas; React owns ever
 
 ## Dedication
 
-For Alan Turing (1912–1954), prosecuted in 1952 for being gay. The patterns his equations describe are everywhere in living things — a celebration of the freedom to be seen exactly as you are.
+For Alan Turing (1912–1954), prosecuted in 1952 for being different. The patterns his equations describe are everywhere in living things — a celebration of the freedom to be seen exactly as you are.
 
 > "We can only see a short distance ahead, but we can see plenty there that needs to be done." — A. M. Turing, 1950
