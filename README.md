@@ -20,8 +20,6 @@ npm run build    # production build to dist/
 npm run preview  # preview the production build
 ```
 
-Built relative-pathed (`base: './'`), so the contents of `dist/` can be dropped straight onto Vercel, Netlify, GitHub Pages, or zipped for itch.io.
-
 ## Structure
 
 ```
